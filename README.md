@@ -61,9 +61,14 @@ Servo moter and moter driver
 - So, I labelled all 8,000 images myself. 
 - And, train it!
 
+## files
+- detection_dnn.py is detect the object and counts what kind of the trash is and returns the nearest classification(ex. plastic, paper, can.. etc).
+- detection_face.py is detect the face, counts whose face it is close to, and returns the person who counts the most.
+- ctr_final.py is the main file of this project. in this file, it detect the face and checks who throws it away, checks which garbage is, gives the user a reward, runs motor control, and collects it separately.
 
 # Notice
 - In my repository there is no weights files, because they are heavy files. If you want our trained weights, contect me.
+- Because I was in charge of object detection, I am not well aware of the applications and servers, databases, and motor control used.
 
 # Contect
 - wkdrudtn1@gmail.com
