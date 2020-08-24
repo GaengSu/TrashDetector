@@ -40,11 +40,27 @@ Servo moter and moter driver
 [![Four directions](http://img.youtube.com/vi/8UlOWuIw0yQ/0.jpg)](https://youtu.be/8UlOWuIw0yQ?t=0s)
 
 
-
 # Environments
 - Raspbian OS
 - python 3.6
 - Opencv
+- MTCNN
+
+# How to use
+
+## Face Detection
+
+- First, We receive a full face video from the user, which is about 10 to 20 seconds.
+- Second, in per_frame_video.py, we can split the video into a frame and save it as an image. This becomes train dataset.
+- Third, in boxing.py, The mtcnn module produces an xml file whith store facial coordinates and multiple information in all images.
+- The xml file is not appropriate because we are going to use yolo. Therefore, convert all xml files into txt files, i.e. yolo format. (in xml_to_yolo.py)
+- And then, we already construct train dataset(face dataset), train it!
+
+## Trash Detection (NOT USAGE, WHAT I DO)
+- We collected 4,000 images from the kagle, 2,000 images from the local dataset taken by ourselves, and 2,000 images from the coil dataset to form the garbage dataset.
+- So, I labelled all 8,000 images myself. 
+- And, train it!
+
 
 # Notice
 - In my repository there is no weights files, because they are heavy files. If you want our trained weights, contect me.
