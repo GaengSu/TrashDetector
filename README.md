@@ -2,7 +2,7 @@
 - automatic trash separator using yolo
 
 ## Development Intention
-
+- Before explaining, this is my Capstone Design Results.
 - Garbage is being dumped indiscriminately(thoughtless) on the campus.
 - If it is thrown away without recycling, it will take a lot of time and manpower to classify it, so recycling is not possible now.
 - So we developed the Trash Detector that encourages students to throw garbage into trash cans.
@@ -36,9 +36,21 @@ Servo moter and moter driver
 ## Face detection
 [![Four directions](http://img.youtube.com/vi/YgaPjcbiClU/0.jpg)](https://youtu.be/YgaPjcbiClU?t=0s)
 
+# Presentation Video (korean)
+[![Four directions](http://img.youtube.com/vi/8UlOWuIw0yQ/0.jpg)](https://youtu.be/8UlOWuIw0yQ?t=0s)
 
 
 
+# Environments
+- Raspbian OS
+- python 3.6
+- Opencv
+
+# Notice
+- In my repository there is no weights files, because they are heavy files. If you want our trained weights, contect me.
+
+# Contect
+- wkdrudtn1@gmail.com
 
 
 
