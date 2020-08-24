@@ -29,7 +29,7 @@ Servo moter and moter driver
 <iframe width="640" height="360" src="https://youtu.be/oi0hDlDZYZc" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 <iframe width="640" height="360" src="https://youtu.be/YgaPjcbiClU" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
-[![예제](http://img.youtube.com/vi/BxDGZi_dKDQ/0.jpg)](https://youtu.be/BxDGZi_dKDQ?t=0s) 
+[![Four directions](http://img.youtube.com/vi/BxDGZi_dKDQ/0.jpg)](https://youtu.be/BxDGZi_dKDQ?t=0s) 
 
 
 
