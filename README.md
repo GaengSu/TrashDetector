@@ -9,10 +9,10 @@
 
 # Hardware
 
-## Raspberry 3b+
-## Motor Driver - pca9685
-## Servo moter - mg996r
-## Unused smartphone - samsung galaxy s7
+- Raspberry 3b+
+- Motor Driver - pca9685
+- Servo moter - mg996r
+- Unused smartphone - samsung galaxy s7
 
 ## Connection Diagram
 ![1589167164935](https://user-images.githubusercontent.com/53466091/91026802-3892f900-e636-11ea-9e9b-e6519950bee6.png)
@@ -28,6 +28,10 @@ Servo moter and moter driver
 [![Four directions](http://img.youtube.com/vi/BxDGZi_dKDQ/0.jpg)](https://youtu.be/BxDGZi_dKDQ?t=0s)
 ## Seperating garbage collection Without detection
 [![Four directions](http://img.youtube.com/vi/oi0hDlDZYZc/0.jpg)](https://youtu.be/oi0hDlDZYZc?t=0s)
+## Face video & making images for train dataset
+[![Four directions](http://img.youtube.com/vi/hRKlib9sNXQ/0.jpg)](https://youtu.be/hRKlib9sNXQ?t=0s)
+![그림1](https://user-images.githubusercontent.com/53466091/91062642-ec60ac80-e667-11ea-9b60-bf122a3cbf4c.png)
+![그림2](https://user-images.githubusercontent.com/53466091/91062636-ea96e900-e667-11ea-999b-47967fbf73e8.png)
 ## Face detection
 [![Four directions](http://img.youtube.com/vi/YgaPjcbiClU/0.jpg)](https://youtu.be/YgaPjcbiClU?t=0s)
 
