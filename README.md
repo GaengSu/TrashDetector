@@ -30,6 +30,7 @@ Servo moter and moter driver
 <iframe width="640" height="360" src="https://youtu.be/YgaPjcbiClU" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 [![Four directions](http://img.youtube.com/vi/BxDGZi_dKDQ/0.jpg)](https://youtu.be/BxDGZi_dKDQ?t=0s) 
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 
 
