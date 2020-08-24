@@ -1,10 +1,10 @@
 # TrashDetector
-automatic trash separator using yolo
+- automatic trash separator using yolo
 
 ## Development Intention
 
-Garbage is being dumped indiscriminately(thoughtless) on the campus.
-So we developed the Trash Detector that encourages students to throw garbage into trash cans.
+- Garbage is being dumped indiscriminately(thoughtless) on the campus.
+- So we developed the Trash Detector that encourages students to throw garbage into trash cans.
 
 # Hardware
 
