@@ -29,7 +29,7 @@ Servo moter and moter driver
 ## Seperating garbage collection Without detection
 [![Four directions](http://img.youtube.com/vi/oi0hDlDZYZc/0.jpg)](https://youtu.be/oi0hDlDZYZc?t=0s)
 ## Trash Detection ex
-![KakaoTalk_20200904_153048172_04](https://user-images.githubusercontent.com/53466091/92262344-ef845400-ef15-11ea-9e49-af8ff0ea9513.jpg)
+![KakaoTalk_20200904_153048172_04](https://user-images.githubusercontent.com/53466091/92262486-2fe3d200-ef16-11ea-95de-a83cf52639ba.jpg)
 ## Face video & making images for train dataset
 [![Four directions](http://img.youtube.com/vi/hRKlib9sNXQ/0.jpg)](https://youtu.be/hRKlib9sNXQ?t=0s)
 ##
@@ -37,6 +37,14 @@ Servo moter and moter driver
 ![그림2](https://user-images.githubusercontent.com/53466091/91062636-ea96e900-e667-11ea-999b-47967fbf73e8.png)
 ## Face detection
 [![Four directions](http://img.youtube.com/vi/YgaPjcbiClU/0.jpg)](https://youtu.be/YgaPjcbiClU?t=0s)
+## Final result - Detecting disposable paper cup
+![KakaoTalk_20200905_013534134_01](https://user-images.githubusercontent.com/53466091/92263810-3410ef00-ef18-11ea-8263-82fdee0b3b24.gif)
+## Final result - Detecting can
+![KakaoTalk_20200905_013534134_02](https://user-images.githubusercontent.com/53466091/92264054-90740e80-ef18-11ea-9aee-6c77aa2762f9.gif)
+## The end of trash seperation
+![KakaoTalk_20200905_014102423_03](https://user-images.githubusercontent.com/53466091/92264489-43dd0300-ef19-11ea-857f-cde07c6922c1.jpg)
+![KakaoTalk_20200905_014102423_01](https://user-images.githubusercontent.com/53466091/92264493-45a6c680-ef19-11ea-975a-bbf4d25c965a.jpg)
+![KakaoTalk_20200905_014102423_02](https://user-images.githubusercontent.com/53466091/92264494-463f5d00-ef19-11ea-8fd0-53fea317d41e.jpg)
 
 # Presentation Video (korean)
 [![Four directions](http://img.youtube.com/vi/8UlOWuIw0yQ/0.jpg)](https://youtu.be/8UlOWuIw0yQ?t=0s)
