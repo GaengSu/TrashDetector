@@ -28,6 +28,8 @@ Servo moter and moter driver
 [![Four directions](http://img.youtube.com/vi/BxDGZi_dKDQ/0.jpg)](https://youtu.be/BxDGZi_dKDQ?t=0s)
 ## Seperating garbage collection Without detection
 [![Four directions](http://img.youtube.com/vi/oi0hDlDZYZc/0.jpg)](https://youtu.be/oi0hDlDZYZc?t=0s)
+## Trash Detection ex
+![KakaoTalk_20200904_153048172_04](https://user-images.githubusercontent.com/53466091/92262344-ef845400-ef15-11ea-9e49-af8ff0ea9513.jpg)
 ## Face video & making images for train dataset
 [![Four directions](http://img.youtube.com/vi/hRKlib9sNXQ/0.jpg)](https://youtu.be/hRKlib9sNXQ?t=0s)
 ##
